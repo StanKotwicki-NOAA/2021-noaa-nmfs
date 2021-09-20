@@ -10,6 +10,8 @@ We can make lists that are automagically numbered – *note that lists need a ca
 
 1. bananas
 1. tamales
+1. [references.docx](https://github.com/Openscapes/2021-noaa-nmfs/files/7197900/references.docx)
+
 1. cakes
 
 [Markdown](https://quarto.org/docs/authoring/markdown-basics.html) can also make hyperlinks using the `[]()` pattern: you put words to hyperlink in `[]` and the URL in `()`. For example:
